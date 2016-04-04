@@ -1,0 +1,25 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.cuadrado{
+ width: 200px;
+ height: 200px;
+
+ /*Parte 2*/
+ position: relative;
+
+}
+#red{
+	background: #ee3e64;
+
+}
+#blue{
+	background: #44accf;
+	/* Parte 3*/
+	left: 200px;
+
+}
+#green{
+	background: #b7d84b;
+}
