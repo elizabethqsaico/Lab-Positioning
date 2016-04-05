@@ -1,0 +1,26 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.cuadrado{
+ width: 200px;
+ height: 200px;
+
+
+}
+
+/* Mover con top right bottom left 0 */
+#red{
+	background: #ee3e64;
+}
+#blue{
+	background: #44accf;
+	 position: absolute;
+	 left: 200px;
+}
+#green{
+	background: #b7d84b;
+}
+#yellow{
+	background: yellow;
+}
